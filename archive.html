@@ -1,0 +1,14 @@
+---
+layout: default
+title: Archive
+---
+
+<h2>Previous Posts</h2>
+
+<div id="post_links">
+   	<ul>
+   		{% for post in site.posts %}
+   			<li><span>{{ post.date | date_to_string }}</span>  <a href="{{ site.base_url }}{{ post.url }}">{{ post.title }}</a></li>
+   		{% endfor %}
+   	</ul>
+</div>

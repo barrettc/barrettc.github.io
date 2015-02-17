@@ -1,1 +1,12 @@
-Hello World
+---
+layout: default
+title: barrettcervenka.com
+---
+
+{% for post in site.posts limit:10 %}
+<div class="post">
+	<h2><a href="{{ site.base_url }}{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="postdate">{{ post.date | date: "%b %d, %Y" }}</div>
+    {{ post.content }}
+</div>
+{% endfor %}

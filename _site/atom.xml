@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Barrett Cervenka's Weblog</title>
+ <link href="http://barrettcervenka.com/atom.xml" rel="self"/>
+ <updated>2014-04-02T14:39:53-05:00</updated>
+ <id>http://barrettcervenka.com/</id>
+ <author>
+   <name>Barrett Cervenka</name>
+   <email>barrett@cervenka.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://barrettcervenka.com//2014/04/02/hello-world/"/>
+   <updated>2014-04-02T00:00:00-05:00</updated>
+   <id>http://barrettcervenka.com/2014/04/02/hello-world</id>
+   <content type="html">&lt;p&gt;Once upon a time, a blog lived here but now this is just a placeholder for my online presence. I can be reached at barrett@cervenka.com.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
