@@ -1,3 +1,19 @@
-permalink: pretty
-#base_url: /blog
-exclude: newpost, publish.sh, fonts
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Barrett Cervenka
+description:      'software engineer in Austin, Texas'
+url:              http://barrettcervenka.com
+baseurl:          /
+
+author:
+  name:           'Barrett Cervenka'
+  email:          barrett@cervenka.com
+
+paginate:         5
