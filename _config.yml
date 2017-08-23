@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Barrett Cervenka
 description:      'software engineer in Austin, Texas'
 url:              http://barrettcervenka.com
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Barrett Cervenka'
