@@ -5,7 +5,7 @@ layout: page
 <h1 class="page-title">About</h1>
 <img width="320" height="240" src="{{ site.base_url }}/public/img/me.jpg"/>
 
-I am a software engineer living and working in Austin, Texas. I graduated from [Texas A&M University](http://www.tamu.edu) in 2000 with a degree in Computer Engineering and have held a variety of roles at companies such as Vignette (now [OpenText](http://www.opentext.com)) and [Electronic Arts](http://www.ea.com). I currently work at [SciSpike](http://www.scispike.com) as a consultant focusing on custom development for our clients.
+I am a software engineer living and working in Austin, Texas. I graduated from [Texas A&M University](http://www.tamu.edu) in 2000 with a degree in Computer Engineering and have held a variety of roles at companies such as Vignette (now [OpenText](http://www.opentext.com)) and [Electronic Arts](http://www.ea.com). I currently work at [Northscaler](https://northscaler.com) as a Principal Software Engineer focusing on custom development for our clients.
 
 I've had an interest in programming as far back as I can remember and still love solving problems and making lives easier through software. Outside of work, I keep busy with my wife [Michelle](https://www.michellecervenka.com) and our two young daughters.
 
