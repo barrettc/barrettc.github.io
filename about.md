@@ -3,7 +3,7 @@ title: about
 layout: page
 ---
 <h1 class="page-title">About</h1>
-<img width="320" height="240" src="{{ site.base_url }}/public/img/me.jpg"/>
+<img src="{{ site.base_url }}/public/img/barrett.jpg"/>
 
 I am a software engineer living and working in Austin, Texas. I graduated from [Texas A&M University](http://www.tamu.edu) in 2000 with a degree in Computer Engineering and have held a variety of roles at companies such as Vignette (now [OpenText](http://www.opentext.com)) and [Electronic Arts](http://www.ea.com). I currently work at [Northscaler](https://northscaler.com) as a Principal Software Engineer focusing on custom development for our clients.
 
