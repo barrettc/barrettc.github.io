@@ -1,3 +1,21 @@
-[barrettcervenka.com](http://barrettcervenka.com)
+# Barrett Cervenka
+## Senior Software Engineer & Consultant
 
-My personal website built on [Jekyll](https://jekyllrb.com). The theme is a slightly modified version of [Hyde](https://github.com/poole/hyde).
+### Resume
+[My resume is available here.](barrettcervenka.pdf)
+
+### Contact
+&#98;&#97;&#114;&#114;&#101;&#116;&#116;&#64;&#99;&#101;&#114;&#118;&#101;&#110;&#107;&#97;&#46;&#99;&#111;&#109;
+
+
+### My Profiles
+* [LinkedIn](https://www.linkedin.com/in/barrettcervenka)
+* [GitHub](https://github.com/barrettc)
+
+
+### About
+I'm a software engineer living and working in Austin, Texas. I graduated from [Texas A&M University](http://www.tamu.edu) in 2000 with a degree in Computer Engineering and have held a variety of roles at companies such as Vignette (now [OpenText](http://www.opentext.com)) and [Electronic Arts](http://www.ea.com). I currently work at [Northscaler](https://northscaler.com) as a Senior Consultant focusing on custom development for our clients.
+
+I've had an interest in technology as far back as I can remember and still love solving problems and making lives easier through software. Outside of work, I keep busy with my wife and our two daughters.
+
+![profile](barrett.jpg)
