@@ -19,3 +19,4 @@ I'm a software engineer living and working in Austin, Texas. I graduated from [T
 I've had an interest in technology as far back as I can remember and still love solving problems and making lives easier through software. Outside of work, I keep busy with my wife and our two daughters.
 
 ![profile](barrett.jpg)
+
