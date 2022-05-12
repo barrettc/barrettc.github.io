@@ -1,5 +1,5 @@
 # Barrett Cervenka
-## Senior Software Engineer & Consultant
+## Principal Software Engineer & Consultant
 
 ### Resume
 [My resume is available here.](barrettcervenka.pdf)
