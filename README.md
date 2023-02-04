@@ -1,5 +1,5 @@
 # Barrett Cervenka
-## Engineering Director and Principal Software Engineer
+## Engineering Manager and Principal Software Engineer
 
 ### Resume
 [My resume is available here.](barrettcervenka.pdf)
